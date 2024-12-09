@@ -10,6 +10,13 @@ namespace BookApi
 
             var app = builder.Build();
 
+            app.UseCors(options =>
+            {
+                options.AllowAnyHeader();
+                options.AllowAnyOrigin();
+                options.AllowAnyMethod();
+            });
+
             app.MapControllers();
             app.MapGet("/", () =>
             {
