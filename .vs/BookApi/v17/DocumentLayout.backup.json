@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dan Tec Gaming\\source\\repos\\book\\BookApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AABF3E75-DB9E-4D78-A2A1-A95A3CE63BDB}|BookApi\\BookApi.csproj|c:\\users\\dan tec gaming\\source\\repos\\book\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AABF3E75-DB9E-4D78-A2A1-A95A3CE63BDB}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Dan Tec Gaming\\source\\repos\\book\\BookApi\\BookApi\\Program.cs",
+              "RelativeDocumentMoniker": "BookApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Dan Tec Gaming\\source\\repos\\book\\BookApi\\BookApi\\Program.cs",
+              "RelativeToolTip": "BookApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T07:52:18.916Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
